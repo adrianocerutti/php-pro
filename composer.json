@@ -10,6 +10,7 @@
     "require": {},
     "autoload": {
         "files": [
+            "app/helpers/constants.php",
             "app/router/router.php"
         ],
         "psr-4": {
