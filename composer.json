@@ -1,0 +1,19 @@
+{
+    "name": "adriano/php-pro",
+    "description": "php-profissional",
+    "authors": [
+        {
+            "name": "Adriano Bernardo Cerutti",
+            "email": "adrianocerutti@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "files": [
+            "app/router/router.php"
+        ],
+        "psr-4": {
+            "app\\": "app"
+        }
+    }
+}
